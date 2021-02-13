@@ -2,10 +2,7 @@
 
 #### I'm a Full-Stack Developer
 
-##### Bio
-
-- I mainly use React/Next, NodeJS, Postgres and Firebase.
-- PWA lover
+I mainly use React/Next, NodeJS, Postgres and Firebase.
 
 
 ##### Find me on:

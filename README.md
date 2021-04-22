@@ -11,4 +11,4 @@ I mainly use React/Next, NodeJS, Postgres and Firebase.
 
 ## Highlights
 
-<img src="assets/ch.png"></img>
+<img src="assets/ch.png" width="500px"></img>

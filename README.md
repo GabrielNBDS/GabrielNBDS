@@ -16,4 +16,4 @@
 
 ### Highlights
 
-<img src="assets/ch.png" width="500px"></img>
+<img src="assets/ch.png" width="400px"></img>

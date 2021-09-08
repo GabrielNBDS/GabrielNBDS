@@ -5,6 +5,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gabrielnbds/](https://www.linkedin.com/in/gabrielnbds/)
 
+- 👤 [Personal website](https://www.gabrielnbds.dev/)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img 

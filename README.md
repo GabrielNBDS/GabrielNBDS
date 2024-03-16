@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 
-- 📫 How to reach me **gabriel.nbds@gmail.com**
+- 📞 How to call me: **+55 (65) 9 8431-0684** (WhatsApp also)
+
+- 📫 How to mail me **gabriel.nbds@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gabrielnbds/](https://www.linkedin.com/in/gabrielnbds/)
 
